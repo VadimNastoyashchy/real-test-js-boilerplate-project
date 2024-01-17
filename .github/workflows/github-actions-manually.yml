@@ -2,7 +2,7 @@ name: GitHub Actions Manually
 on: [workflow_dispatch]
 
 jobs:
-  cypress-run:
+  real-test-js-run:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
