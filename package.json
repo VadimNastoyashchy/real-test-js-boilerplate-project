@@ -1,0 +1,17 @@
+{
+  "name": "real-test-js-boilerplate-project",
+  "version": "1.0.0",
+  "description": "boilerplate project for real-test-js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "real-test-js"
+  ],
+  "author": "Vadym Nastoiashchyi",
+  "license": "ISC",
+  "dependencies": {
+    "real-test-js": "^1.8.0"
+  }
+}
