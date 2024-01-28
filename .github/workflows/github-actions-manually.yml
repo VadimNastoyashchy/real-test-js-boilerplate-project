@@ -1,6 +1,8 @@
-name: GitHub Actions Manually
-on: [workflow_dispatch]
-
+name: GitHub Actions After Push Into Branch
+on:
+  push:
+    branches:
+      - master
 jobs:
   real-test-js-run:
     runs-on: ubuntu-latest
