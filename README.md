@@ -1,2 +1,2 @@
 # real-test-js-boilerplate-project
-boilerplate project for RealTestJS
+boilerplate project for scripterio

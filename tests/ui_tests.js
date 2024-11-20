@@ -1,4 +1,4 @@
-import { describe, test, expect, beforeEach, afterEach } from "real-test-js";
+import { describe, test, expect, beforeEach, afterEach } from "scripterio";
 import { chromium, devices } from "playwright";
 
 describe("UI tests using playwright", () => {

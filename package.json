@@ -1,14 +1,14 @@
 {
-  "name": "real-test-js-boilerplate-project",
+  "name": "scripterio-boilerplate-project",
   "version": "1.0.0",
   "description": "boilerplate project for real-test-js",
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "npx real-test-js --folder=tests"
+    "test": "npx scripterio --folder=tests"
   },
   "keywords": [
-    "real-test-js"
+    "scripterio"
   ],
   "author": "Vadym Nastoiashchyi",
   "license": "ISC",
@@ -16,6 +16,6 @@
     "axios": "^1.6.5",
     "finder-json": "^1.0.2",
     "playwright": "^1.41.0",
-    "real-test-js": "^1.9.5"
+    "scripterio": "0.0.2"
   }
 }

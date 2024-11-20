@@ -1,4 +1,4 @@
-import { describe, test, expect } from "real-test-js";
+import { describe, test, expect } from "scripterio";
 import axios from "axios";
 import { getValue } from "finder-json"
 
