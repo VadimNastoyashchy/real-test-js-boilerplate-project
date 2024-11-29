@@ -16,6 +16,6 @@
     "axios": "^1.6.5",
     "finder-json": "^1.0.2",
     "playwright": "^1.41.0",
-    "scripterio": "0.0.2"
+    "scripterio": "1.0.1"
   }
 }
